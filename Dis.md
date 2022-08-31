@@ -5,7 +5,7 @@ subtitle:
 cover-img: /img/policy.jpg
 ---
 
-## Disclaimer for madhusudanupadhyay.com.np
+
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at info@madhusudanupadhyay.com.np. 
 
 #### Disclaimers for madhusudanupadhyay.com.np

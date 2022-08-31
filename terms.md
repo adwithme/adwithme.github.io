@@ -6,7 +6,7 @@ cover-img: /img/policy.jpg
 ---
 
 
-## Terms and Conditions
+
 #### Welcome to madhusudanupadhyay.com.np!
 
 These terms and conditions outline the rules and regulations for the use of madhusudanupadhyay.com.np's Website, located at https://madhusudanupadhyay.com.np.

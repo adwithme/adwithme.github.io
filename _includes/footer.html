@@ -11,12 +11,14 @@
         </div>
       {% endif %}
       <p class="copyright text-muted">
+        © Copyright
+        {{ site.time | date: '%Y' }}
+        All rights reserved by
       {% if site.author %}
         {{ site.author }}
-        &nbsp;&bull;&nbsp;
+        
       {% endif %}
-      {{ site.time | date: '%Y' }}
-
+      
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
         <span class="author-site">
@@ -33,7 +35,7 @@
 
       {% unless site.remove-ads %}<p class="theme-by text-muted">
         Powered by
-        <a href="https://Madhusudanupadhyay.com.np">Madhusudan Upadhyay</a>
+        <a href="https://Madhusudanupadhyay.com.np">मधुसुदन उपाध्याय</a>
       </p>{% endunless %}
       </div>
     </div>
