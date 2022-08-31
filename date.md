@@ -2,7 +2,7 @@
 layout: page
 title: Calender
 subtitle: 
-cover-img: /img/calender.jpg
+cover-img: /img/calendar.jpg
 ---
 
  <ins>Nepali Calender</ins>    
