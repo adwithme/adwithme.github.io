@@ -23,11 +23,12 @@ navbar-links:
   Home: "/"
   About Me: "aboutme"
   Contact: "Contact"
-  Resources:
+  More Pages:
+    - Calander: "date"
     - Privacy Policy: "privacy"
     - Terms & Condition: "terms"
     - Disclamier: "Dis"
-    - Calander: "date"
+    
     
 ################
 # --- Logo --- #
