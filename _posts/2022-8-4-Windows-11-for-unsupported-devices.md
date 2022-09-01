@@ -52,7 +52,9 @@ Step 1 - Download Media Creation tool from Microsoft website.
 ![Win11](/img/posts/Win11/Win10-Media-2.png)
 
 Step 2 - Run Downloaded Media creation tool
+
 Step 3 - Click On accept
+
 Step 4 - Click on Create Installation Media and Click on Next
 ![Win11](/img/posts/Win11/Media-installation-3.png)
 
@@ -60,11 +62,13 @@ Step 5 - UnCheck Recommanded option and choose 64bit windows 10 and Click on nex
 ![Win11](/img/posts/Win11/64bit-4.png)
 
 Step 6 - Insert you flash drive to your device.
+
 Step 7 - Choose USB Flash Drive Click on Next.
 ![Win11](/img/posts/Win11/usbflash-5.png)
 
 Step 8 - Choose your USB Drive and Click on Next and wait It will download image and flash your drive 
         _Note:- (Time Depends upon your PC or Laptop hardware and Internet Speed)_
+
 Step 9 - Click on Finish
 
 #### Let’s Prepare Windows 11 ISO.
@@ -82,7 +86,9 @@ Step 4 - Click on 64Bit Download, It will begin to download your windows 11 ISO.
 
 #### We Need Another Tool Called Wimlib 
 Step 1 - Go to wimlib Website.
+
 Step 2 - Choose wimlib zip file as per your windows architecture 
+
 Step 3 - Extract zip file on desktop
 
 #### Converting  Windows 10 Bootable Pendrive To Windows 11 
