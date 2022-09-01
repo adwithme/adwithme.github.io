@@ -5,7 +5,7 @@ subtitle: Step-by-step guide
 cover-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
 thumbnail-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
 share-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
-tags: [Bootable USB, Rufus, Windows, Linux]
+tags: [Bootable, Windows, Linux]
 ---
 
 ## The Method Of Creating Of Bootable USB Flash Drive. 
