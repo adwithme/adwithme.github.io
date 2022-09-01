@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motherboard Beep Code 
-subtitle: it is Very Important While You Are Troubleshooting PC Or Laptop
+subtitle: It is very important while you are troubleshooting PC Or Laptop
 cover-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 thumbnail-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 share-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
