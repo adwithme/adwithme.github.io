@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating Bootable USB Drive Of Windows 11
-subtitle: Any PC No TPM Installation
+subtitle: Any PC No TPM required for Installation
 cover-img: img/posts/Win11/Firstlook1.jpg
 thumbnail-img: /img/posts/Win11/Snap-feature.gif
 share-img: img/posts/Win11/Firstlook1.jpg
