@@ -8,9 +8,10 @@ share-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 tags: [Motherboard, Beep Code]
 ---
 
-## Motherboard Beep Code Is Very Important While You Are Troubleshooting PC Or Laptop, Here Are The List Of Beep Code From Different Manufactures.
+Motherboard Beep Code Is Very Important While You Are Troubleshooting PC Or Laptop, Here Are The List Of Beep Code From Different Manufactures.
 
 ## AMI BIOS Beep Codes
+
 | Beep Code       | Description                                                      |
 |-----------------|------------------------------------------------------------------|
 | 1 short         | DRAM refresh failure                                             |
@@ -29,6 +30,7 @@ tags: [Motherboard, Beep Code]
 | 1 long, 8 short | Display/Retrace test failed                                      |
 | two-tone siren  | Low CPU Fan speed, Voltage Level issue                           |
 
+
 ## AWARD BIOS Beep Codes
 
 | Beep Code                                         | Description                                                                                                                 |
@@ -40,9 +42,11 @@ tags: [Motherboard, Beep Code]
 | Repeated beeps alternating high & low frequency   | Issue with the processor (CPU), possibly damaged                                                                            |
 
 ## COMPAQ
-| 2 long | Memory map failure |
-|--------|--------------------|
-| 3 long | CPU self-test      | 
+
+| Beep Code | Description        |
+|-----------|--------------------|
+| 2 long    | Memory map failure |
+| 3 long    | CPU self-test      | 
 
 ## DELL Beep Codes
 
@@ -57,40 +61,41 @@ tags: [Motherboard, Beep Code]
 | 7 beeps   | Bad processor (CPU)            |
 
 ## DELL Phoenix
-| Beep Code | Description                    |
-|-----------|--------------------------------|
-| 1-1-2     |Microprocessor register failure |
-| 1-1-3     | CMOS write/read failure |
-| 1-1-4     | ROM BIOS checksum failure |
-| 1-2-1     | Programmable interval timer failure |
-| 1-2-2     | DMA initialization failure |
-| 1-2-3     | DMA Page Register r/w failure |
-| 1-3       | Video memory test failure |
-| 1-3-1     | RAM problem |
-| 2-4-4     | RAM problem |
-| 3-1-1     | Slave DMA register failure |
-| 3-1-2     | Master DMA register failure |
+
+| Beep Code | Description                            |
+|-----------|----------------------------------------|
+| 1-1-2     | Microprocessor register failure        |
+| 1-1-3     | CMOS write/read failure                |
+| 1-1-4     | ROM BIOS checksum failure              |
+| 1-2-1     | Programmable interval timer failure    |
+| 1-2-2     | DMA initialization failure             |
+| 1-2-3     | DMA Page Register r/w failure          |
+| 1-3       | Video memory test failure              |
+| 1-3-1     | RAM problem                            |
+| 2-4-4     | RAM problem                            |
+| 3-1-1     | Slave DMA register failure             |
+| 3-1-2     | Master DMA register failure            |
 | 3-1-3     | Master interrupt mask register failure |
-| 3-1-4     | Slave interrupt mask register failure |
-| 3-2-2     | Interrupt vector loading failure |
-| 3-2-4     | Keyboard controller test failure |
-| 3-3-1     | Nonvolatile RAM power loss |
-| 3-3-2     | Nonvolatile RAM configuration |
-| 3-3-4     | Video memory test failure |
-| 3-4-1     | Screen initialization failure |
-| 3-4-2     | Screen retrace failure |
-| 3-4-3     | Search for video ROM failure |
-| 4-2-1     | No time tick |
-| 4-2-2     | Shutdown failure |
-| 4-2-3     | Gate A20 failure |
+| 3-1-4     | Slave interrupt mask register failure  |
+| 3-2-2     | Interrupt vector loading failure       |
+| 3-2-4     | Keyboard controller test failure       |
+| 3-3-1     | Nonvolatile RAM power loss             |
+| 3-3-2     | Nonvolatile RAM configuration          |
+| 3-3-4     | Video memory test failure              |
+| 3-4-1     | Screen initialization failure          |
+| 3-4-2     | Screen retrace failure                 |
+| 3-4-3     | Search for video ROM failure           |
+| 4-2-1     | No time tick                           |
+| 4-2-2     | Shutdown failure                       |
+| 4-2-3     | Gate A20 failure                       |
 | 4-2-4     | Unexpected interrupt in protected mode |
-| 4-3-1     | Memory failure above address |
-| 4-3-3     | Timer chip counter 2 failure |
-| 4-3-4     | Time-of-day clock stopped |
-| 4-4-1     | Serial port test failure |
-| 4-4-2     | Parallel port test failure |
-| 4-4-3     |Math coprocessor test failure | 
-| 4-4-4     |Cache test failure |
+| 4-3-1     | Memory failure above address           |
+| 4-3-3     | Timer chip counter 2 failure           |
+| 4-3-4     | Time-of-day clock stopped              |
+| 4-4-1     | Serial port test failure               |
+| 4-4-2     | Parallel port test failure             |
+| 4-4-3     | Math coprocessor test failure          |
+| 4-4-4     | Cache test failure                     |
 
 ![Motherboard](/img/posts/Motherboard/Beep-Codes-Motherboard.jpg)
 
