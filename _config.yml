@@ -24,9 +24,10 @@ navbar-links:
   About Me: "aboutme"
   Contact: "Contact"
   More Pages:
+    - Calander: "date"
+    - Date Convertor: "date-convertor"
     - Unicode tO Preeti: "Unicode-to-Preeti"
     - Preeti to Unicode: "Preeti-to-Unicode"
-    - Calander: "date"
     - Privacy Policy: "privacy"
     - Terms & Condition: "terms"
     - Disclamier: "Dis"
