@@ -5,7 +5,7 @@ subtitle: Online Registration Step By Step
 cover-img: /img/posts/Mobile-Registration/NTA-2.png
 thumbnail-img: /img/posts/Mobile-Registration/NTA.png
 share-img: /img/posts/Mobile-Registration/NTA.png
-tags: [Other]
+tags: [Other] [Nepal]
 ---
 ## Online Mobile Phone Registration Process In Nepal Step By Step
 Nepal Telecommunications Authority changes their policy regarding mobile devices. In this new policy they mentioned that every hand held device which use Cell tower must be registered at Nepal Telecommunications Authority other wise Cell tower or sim card is not working on those devices. Most of devices are gifted or purchased from third country as the result of that Nepal Telecommunications Authority have no records of those phones. After recorded the data of all handheld devices authority can use for track the device to solve the crime and many more things. Let's Begin how to register your mobile on Nepal Telecommunications Authority step by step.
@@ -17,7 +17,7 @@ Nepal Telecommunications Authority changes their policy regarding mobile devices
 
 ### How To Check Whether Your Phone Is Registered Or Not?
 - Open Any Browser
-- Type Eir.Nta.Gov.Np Hit Enter.
+- Type [eir.nta.gov.np](https://eir.nta.gov.np/) Hit Enter.
 - Click On Know Your Device
 - Enter IMEI Number
 - Click On Submit.
@@ -26,7 +26,7 @@ Nepal Telecommunications Authority changes their policy regarding mobile devices
 
 ### How To Register Your Mobile ?
 - Open Any Browser
-- Type Eir.Nta.Gov.Np Hit Enter.
+- Type [eir.nta.gov.np](https://eir.nta.gov.np/) Hit Enter.
 - Click On Sign Up
 - Click On Individual Application
 - Fill Up The Form
