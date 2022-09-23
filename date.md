@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Calender
+title: Nepali Calender
 subtitle: 
 cover-img: /img/calendar.jpg
 ---
 
- <ins>Nepali Calender</ins>    
+ <div id="np_widget_wiz1" widget="month" ></div>
+<script async src="https://nepalipatro.com.np/np-widgets/nepalipatro.js" id="wiz1"></script>
+ 
       
-<iframe src="https://www.hamropatro.com/widgets/calender-medium.php" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:295px; height:385px;" allowtransparency="true"></iframe>
-
- <ins>Date Convertor</ins>    
-   
- <iframe src="https://www.hamropatro.com/widgets/dateconverter.php" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="border:none; overflow:hidden; width:350px; height:150px;" allowtransparency="true"></iframe>
