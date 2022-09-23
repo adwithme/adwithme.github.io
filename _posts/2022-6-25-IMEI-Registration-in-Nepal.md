@@ -6,6 +6,7 @@ cover-img: /img/posts/Mobile-Registration/NTA-2.png
 thumbnail-img: /img/posts/Mobile-Registration/NTA.png
 share-img: /img/posts/Mobile-Registration/NTA.png
 share-title: Mobile Registration in Nepal
+share-description: Mobile Online Registration in Nepal 
 tags: [Other]
 ---
 ## Online Mobile Phone Registration Process In Nepal Step By Step
