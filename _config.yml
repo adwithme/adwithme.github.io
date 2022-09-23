@@ -21,6 +21,7 @@ author: Madhusudan Upadhyay
 
 navbar-links:
   Home: "/"
+  Categories: "/tags/"
   About Me: "aboutme"
   Contact: "Contact"
   More Pages:
