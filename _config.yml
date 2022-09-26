@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: मधुसुदन उपाध्याय
+title: Madhusudan Upadhyay
 
 # Your name to show in the footer
 author: Madhusudan Upadhyay
@@ -21,6 +21,7 @@ author: Madhusudan Upadhyay
 
 navbar-links:
   Home: "/"
+  Categories: "/tags"
   About Me: "aboutme"
   Contact: "Contact"
   More Pages:
@@ -113,7 +114,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+# edit_page_button: true
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -121,7 +122,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Madhusudan Upadhyay, Blog, Portfolio, Blogger, Domain, Security, Nepal,"
 
 ######################################
 # --- Colours / background image --- #
@@ -144,9 +145,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 slideShow:
 - /img/about-bg.jpg
