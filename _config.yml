@@ -24,6 +24,7 @@ navbar-links:
   Categories: "/tags"
   About Me: "aboutme"
   Contact: "Contact"
+  Submit Ticket: "https://madhusudan.tawk.help/"
   More Pages:
     - Calander: "date"
     - Date Convertor: "Date-Convertor"
