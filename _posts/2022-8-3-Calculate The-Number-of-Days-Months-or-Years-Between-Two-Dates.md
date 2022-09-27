@@ -6,6 +6,7 @@ cover-img: /img/posts/Excel/Excel.png
 thumbnail-img: /img/posts/Excel/Excel.png
 share-img: /img/posts/Excel/Excel.png
 tags: [Excel]
+Comments: True
 ---
 
 Have you ever needed to determine the number of days, months or years between two dates? Calculating the number of days using Excel is pretty simple. Just use a formula to subtract the later date from the earlier date.

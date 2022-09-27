@@ -6,6 +6,7 @@ cover-img: /img/posts/Windows10/Windows_10.jpg
 thumbnail-img: /img/posts/Windows10/Windows_10.jpg
 share-img: /img/posts/Windows10/Windows_10.jpg
 tags: [OS Installation, Windows]
+Comments: True
 ---
 ## How To Install Windows 10 Operating System Using Pendrive 
 *If you don't know how to make Bootable usb pendrive you can check our previous Post.*

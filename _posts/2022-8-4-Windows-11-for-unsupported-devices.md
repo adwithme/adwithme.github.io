@@ -6,6 +6,7 @@ cover-img: img/posts/Win11/Firstlook1.jpg
 thumbnail-img: /img/posts/Win11/Snap-feature.gif
 share-img: img/posts/Win11/Firstlook1.jpg
 tags: [Windows, Bootable]
+Comments: True
 ---
 
 Your device must be running Windows 10, version 2004 or later, to upgrade. Free updates are available through Windows Update in Settings>Update and Security.

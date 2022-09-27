@@ -6,6 +6,7 @@ cover-img: /img/posts/Win11/w11-appstore.jpg
 thumbnail-img: /img/posts/Win11/w11-appstore.jpg
 share-img: /img/posts/Win11/w11-appstore.jpg
 tags: [Windows]
+Comments: True
 ---
 
 After downloading any app in Windows 11, there are various reasons to uninstall it. Whether to increase storage or not to use the app, we need to uninstall such apps.

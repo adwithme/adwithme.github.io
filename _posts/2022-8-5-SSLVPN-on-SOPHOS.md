@@ -6,6 +6,7 @@ cover-img: /img/posts/Firewall/sophos-xg.png
 thumbnail-img: /img/posts/Firewall/sophos-xg.png
 share-img: /img/posts/Firewall/sophos-xg.png
 tags: [Firewall, Security]
+Comments: True
 ---
 ### What Is SSL VPN?
 

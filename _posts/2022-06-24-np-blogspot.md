@@ -7,6 +7,7 @@ thumbnail-img: /img/posts/np-blogspot/cloudflaretoblogger.png
 share-img: /img/posts/np-blogspot/cloudflaretoblogger.png
 share-title: How to Connect .com.np domain to blogger
 tags: [Domain, Blogger]
+Comments: True
 ---
 
 ## Easy Steps to get your Blog to your personal domain

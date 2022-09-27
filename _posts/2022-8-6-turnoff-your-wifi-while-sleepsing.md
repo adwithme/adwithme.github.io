@@ -6,6 +6,7 @@ cover-img: /img/posts/wifi/shutterclock.png
 thumbnail-img: /img/posts/wifi/shutterclock.png
 share-img: /img/posts/wifi/shutterclock.png
 tags: [Firewall, Security]
+Comments: True
 ---
 
 Internet usage has become commonplace these days. We are advancing our diary in the digital world with the latest Wi-Fi technology.

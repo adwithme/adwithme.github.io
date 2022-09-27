@@ -6,6 +6,7 @@ cover-img: /img/posts/OneDrive/Onedrive-bg.jpg
 thumbnail-img: /img/posts/OneDrive/Onedrive-bg.jpg
 share-img: /img/posts/OneDrive/Onedrive-bg.jpg
 tags: [Onedrive]
+Comments: True
 ---
 OneDrive is a product of Microsoft which is cloud storage system just like Google Drive, DropBox, etc.,  Lets, get know how to operate OneDrive on cloud.
 

@@ -6,6 +6,7 @@ cover-img: /img/posts/Linux-file-system/Linux.jpg
 thumbnail-img: /img/posts/Linux-file-system/Linux.jpg
 share-img: /img/posts/Linux-file-system/Linux.jpg
 tags: [Linux]
+Comments: True
 ---
 
 ## What Is Linux? 

@@ -6,6 +6,7 @@ cover-img: /img/posts/OneDrive/mscloud.jpg
 thumbnail-img: /img/posts/OneDrive/mscloud.jpg
 share-img: /img/posts/OneDrive/mscloud.jpg
 tags: [Onedrive]
+Comments: True
 ---
 Hope you read our first part of Getting Started with OneDrive or OneDrive for Business. Here is the second part of OneDrive and OneDrive for Business. Don't forget to read first, second and third part.
 

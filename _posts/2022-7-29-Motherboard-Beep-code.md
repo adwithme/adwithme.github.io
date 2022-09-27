@@ -6,6 +6,7 @@ cover-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 thumbnail-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 share-img: /img/posts/Motherboard/Beep-Codes-Motherboard.jpg
 tags: [Motherboard]
+Comments: True
 ---
 
 Motherboard Beep Code Is Very Important While You Are Troubleshooting PC Or Laptop, Here Are The List Of Beep Code From Different Manufactures.

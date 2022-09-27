@@ -6,6 +6,7 @@ cover-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
 thumbnail-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
 share-img: /img/posts/Bootable-usb-for-windows/bootable-usb.jpg
 tags: [Bootable, Windows, Linux]
+Comments: True
 ---
 
 ## The Method Of Creating Of Bootable USB Flash Drive. 

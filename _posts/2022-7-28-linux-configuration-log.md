@@ -6,6 +6,7 @@ cover-img: /img/posts/Linux-Log-Configuration/linux-Troubleshooting.jpg
 thumbnail-img: /img/posts/Linux-Log-Configuration/linux-Troubleshooting.jpg
 share-img: /img/posts/Linux-Log-Configuration/linux-Troubleshooting.jpg
 tags: [Linux]
+Comments: True
 ---
 
 ## Linux System Configuration And Log Files
