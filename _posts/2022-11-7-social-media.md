@@ -19,7 +19,9 @@ The term social media generated a buzz in the world of internet users upon its a
 ![Social](/img/posts/social/sm.jpg)
 
 #### Let’s look at the positive and negative aspects of social media.
+
 ## Positive aspects
+
 
 -	Stay connected to your close ones
 
