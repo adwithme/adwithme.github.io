@@ -21,8 +21,8 @@ author: Madhusudan Upadhyay
 
 navbar-links:
   Home: "/"
-  Categories: "/tags"
   About Me: "aboutme"
+  Categories: "/tags"
   Submit Ticket: "https://madhusudan.tawk.help/"
   More Pages:
     - Contact: "Contact"
