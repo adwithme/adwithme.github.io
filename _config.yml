@@ -63,7 +63,7 @@ title-img: /img/Green-MU.png
 social-network-links:
   email: "info@madhusudanupadhyay.com.np"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: madhusudanupadhyay.com.np
+ # facebook: madhusudanupadhyay.com.np
   #github: 
   twitter: meupadhyay
   #patreon: 
