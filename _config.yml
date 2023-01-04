@@ -23,13 +23,15 @@ navbar-links:
   Home: "/"
   Categories: "/tags"
   About Me: "aboutme"
-  Contact: "Contact"
+  Editorial: "editorial"
   Submit Ticket: "https://madhusudan.tawk.help/"
   More Pages:
+    - Contact: "Contact"
     - Calander: "date"
     - Date Convertor: "Date-Convertor"
     - Preeti to unicode: "Preeti-to-Unicode"
     - Unicode to Preeti: "Unicode-to-Preeti"
+  Policy:
     - Privacy Policy: "privacy"
     - Terms & Condition: "terms"
     - Disclamier: "Dis"
