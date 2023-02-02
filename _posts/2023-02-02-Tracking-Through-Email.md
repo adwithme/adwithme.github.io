@@ -45,7 +45,4 @@ There are various options for limiting the ability of advertising companies to t
 - **When possible, opt out.** For sites using the UID 2.0 framework for ad targeting, you can opt out by entering your email address at https://transparentadvertising.org. (Not all sites that collect your email address are using UID 2.0, however.)
 You could also do nothing. If you enjoy receiving relevant advertising and have no privacy concerns, you can accept that sharing some information about yourself is part of the transaction for receiving content on the internet.
 I try to take a cautious but moderate approach. I juggle four email accounts devoted to my main interests — food, travel, fitness and movies. I’ll use the movie-related email address, for example, when I’m logging in to a site to buy movie tickets or stream videos. That way, those sites and apps will know about my movie preferences, but they won’t know everything about me.
-
-
-
-
+ Source: NYTimes
