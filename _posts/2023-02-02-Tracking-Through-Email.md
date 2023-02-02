@@ -39,10 +39,16 @@ There are simpler ways for websites and apps to track your web activity through 
 The bottom line is that if you’re wondering why you are continuing to see relevant ads despite the rise of privacy tools that combat digital tracking, it’s largely because you are still sharing your email address.
 
 ## So what to do?
+
 There are various options for limiting the ability of advertising companies to target you based on your email address:
+
 - **Create a bunch of email addresses.** Each time a site or an app asks for your email, you could create a unique address to log in to it, such as, for example, netflixbrianchen@gmail.com for movie-related apps and services. That would make it hard for ad tech companies to compile a profile based on your email handle. And if you receive spam mail to a specific account, that will tell you which company is sharing your data with marketers. This is an extreme approach, because it’s time-consuming to manage so many email addresses and their passwords.
+
 - **Use email-masking tools.** Apple and Mozilla offer tools that automatically create email aliases for logging in to an app or a site; emails sent to the aliases are forwarded to your real email address. Apple’s Hide My Email tool, which is part of its iCloud+ subscription service that costs 99 cents a month, will create aliases, but using it will make it more difficult to log in to the accounts from a non-Apple device. Mozilla’s Firefox Relay will generate five email aliases at no cost; beyond that, the program charges 99 cents a month for additional aliases.
-- **When possible, opt out.** For sites using the UID 2.0 framework for ad targeting, you can opt out by entering your email address at https://transparentadvertising.org. (Not all sites that collect your email address are using UID 2.0, however.)
+
+- **When possible, opt out.** For sites using the UID 2.0 framework for ad targeting, you can opt out by entering your email address at [transparentadvertising.org](https://transparentadvertising.org). (Not all sites that collect your email address are using UID 2.0, however.)
+
 You could also do nothing. If you enjoy receiving relevant advertising and have no privacy concerns, you can accept that sharing some information about yourself is part of the transaction for receiving content on the internet.
+
 I try to take a cautious but moderate approach. I juggle four email accounts devoted to my main interests — food, travel, fitness and movies. I’ll use the movie-related email address, for example, when I’m logging in to a site to buy movie tickets or stream videos. That way, those sites and apps will know about my movie preferences, but they won’t know everything about me.
  Source: NYTimes
