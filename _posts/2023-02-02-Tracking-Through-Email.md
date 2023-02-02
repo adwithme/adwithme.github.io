@@ -2,7 +2,7 @@
 layout: post
 title: Everyone Wants Your Email Address.
 subtitle: Think Twice Before Sharing It.
-cover-img: /img/posts/DigitalData/email.gif
+cover-img: /img/posts/DigitalData/e-markeing.jpg
 thumbnail-img: /img/posts/DigitalData/email.gif
 share-img: /img/posts/DigitalData/email.gif
 tags: [Digital Safety]
