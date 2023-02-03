@@ -7,7 +7,8 @@ thumbnail-img: /img/posts/DigitalData/email.gif
 share-img: /img/posts/DigitalData/email.gif
 tags: [Digital Safety]
 ---
-Your email address has become a digital bread crumb for companies to link your activity across sites. Here’s how you can limit this. - The New York Times
+## Your email address has become a digital bread crumb for companies to link your activity across sites. 
+
 When you browse the web, an increasing number of sites and apps are asking for a piece of basic information that you probably hand over without hesitation: your email address.
 It may seem harmless, but when you enter your email, you’re sharing a lot more than just that. I’m hoping this column, which includes some workarounds, persuades you to think twice before handing over your email address.
 ![Digital Safety ](/img/posts/DigitalData/email.gif)
