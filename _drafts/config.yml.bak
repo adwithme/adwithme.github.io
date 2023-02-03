@@ -24,7 +24,12 @@ navbar-links:
   About Me: "aboutme"
   Categories: "/tags"
   Submit Ticket: "https://madhusudan.tawk.help/"
-     
+#  More Pages:
+   - Contact: "Contact"
+   - Privacy Policy: "privacy"
+   - Terms & Condition: "terms"
+   - Disclamier: "Dis"
+    
     
     
 ################
