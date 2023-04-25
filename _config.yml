@@ -148,7 +148,6 @@ footer-hover-col: "#0085A1"
 
 slideShow:
 - /img/about-bg.jpg
-- /img/hero-bg.jpg
 - /img/bg-contact.jpg
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
