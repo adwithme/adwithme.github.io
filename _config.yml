@@ -146,7 +146,7 @@ footer-hover-col: "#0085A1"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
-slideShow:
+#slideShow:
 - /img/about-bg.jpg
 - /img/bg-contact.jpg
 - /img/madhu.jpg
